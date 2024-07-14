@@ -3,7 +3,6 @@
 ## Detalle de la aplicación
 La aplicación de LiterAlura tiene las siguientes opciones para ser ejecutadas:
 
-* 
 * Buscar libro por título
 * Listar libros registrados
 * Listar autores registrados
